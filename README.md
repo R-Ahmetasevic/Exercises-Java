@@ -1,2 +1,2 @@
 # Exercises-Java
-All kinds of Java programs
+All types of Java programs
